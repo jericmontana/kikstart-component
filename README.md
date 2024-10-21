@@ -25,6 +25,8 @@ Before installing the Kikstart component, ensure that the following dependencies
 [View the design on Figma](https://www.figma.com).
 
 ## Setup Instructions
+**Video Guide:** [Watch the installation video here](https://google.com).
+**Preview:** [Demo Shopify store](https://google.com).
 Follow these steps to install the Kikstart component into your project.
 **Note**: Make sure you have the required dependencies installed before proceeding.
 
@@ -38,8 +40,6 @@ Follow these steps to install the Kikstart component into your project.
 | `kik-no-image.liquid`          | `snippets/`      |
 
 3. Ensure that all asset paths are correct and integrate the component as needed.
-
-**Video Guide:** [Watch the installation video here](https://google.com).
 
 ## General Notes
 
