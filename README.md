@@ -2,43 +2,54 @@
 
 A brief description of the project, including what the component is designed to do, its key features, and how it fits into the larger project.
 
-## Installation
+## Technologies Used
+- **HTML5**: Structure of the component.
+- **CSS3**: Styling for the component layout and responsiveness.
+- **JavaScript/ES6**: Used for dynamic functionality and event handling.
+- **Web Components**: For creating reusable, encapsulated custom elements with their own functionality and styles.
+- **Liquid**: Shopify’s templating language for rendering the component.
 
-Follow these steps to install the Kikstart component into your project.
-
-**Note**: Make sure you have the required dependencies installed before proceeding.
-
-### Required Dependencies
-
+## Dependencies
 Before installing the Kikstart component, ensure that the following dependencies are installed:
-
 - **PostCSS**: For processing CSS files. [Installation Guide](https://postcss.org/)
 - **Webpack**: For bundling and optimizing assets. [Installation Guide](https://webpack.js.org/guides/getting-started/)
 
-### Files to copy:
+## Browser Compatibility
+- Chrome (Latest)
+- Firefox (Latest)
+- Safari (Latest)
+- Edge (Latest)
+- Internet Explorer 11 (with polyfills)
 
-| File                        | Location        |
-|:---------------------------:|:---------------:|
-| `ph-flag.svg`               | `assets/`       |
-| `kik-image-with-text.liquid`| `sections/`     |
-| `kik-no-image.liquid`       | `snippets/`     |
+## Design/UX
+[View the design on Figma](https://www.figma.com).
 
-### Steps:
-1. Copy the required files listed above to the appropriate directories.
-2. Ensure that all asset paths are correct.
-3. Test the component in your Shopify theme to verify proper functionality.
+## Setup Instructions
+Follow these steps to install the Kikstart component into your project.
+**Note**: Make sure you have the required dependencies installed before proceeding.
+
+1. Clone the repository or download the component files.
+2. Copy the following files to the corresponding locations in your theme:
+
+| File                           | Location         |
+|:------------------------------:|:----------------:|
+| `ph-flag.svg`                  | `assets/`        |
+| `kik-image-with-text.liquid`   | `sections/`      |
+| `kik-no-image.liquid`          | `snippets/`      |
+
+3. Ensure that all asset paths are correct and integrate the component as needed.
+
+**Video Guide:** [Watch the installation video here](https://google.com).
 
 ## General Notes
 
 - Always use a development store for testing before pushing changes to production.
 - Follow Shopify's best practices for theme development.
 
-## Contributing
+## How to Contribute
 
 We are excited for you to contribute to this project! Whether it's helping to refine the code, improve documentation, or share your own ideas, you're welcome to collaborate.
 
-### How to Contribute
-   
 1. **Submit a Pull Request**  
    Have improvements, bug fixes, or new features? Submit a pull request, and we’ll review and discuss it.   
 
