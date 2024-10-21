@@ -2,6 +2,11 @@
 
 A brief description of the project, including what the component is designed to do, its key features, and how it fits into the larger project.
 
+## Lead Developer
+- **Name**: Jeck
+- **Email**: mntnjrc@gmail.com
+- **Phone Number**: +639165569644
+
 ## Technologies Used
 - **HTML5**: Structure of the component.
 - **CSS3**: Styling for the component layout and responsiveness.
