@@ -20,11 +20,8 @@ A brief description of the project, including what the component is designed to 
     - Internet Explorer 11 (with polyfills)
 
 ## Design/UX
-[View the design on Figma](https://www.figma.com).
-
 - **Wireframes/Mockups**
-[View the design on Figma](https://www.figma.com/file/XXXXXX).
-
+[View the design on Figma](https://www.figma.com).
 - **Design Considerations**
     - Ensure the image scales appropriately across different devices.
     - Follow the brand's typography and color guidelines.
