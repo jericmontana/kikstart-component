@@ -3,27 +3,32 @@
 A brief description of the project, including what the component is designed to do, its key features, and how it fits into the larger project.
 
 ## Technical Specifications
-### Technologies Used
-- **HTML5**: Structure of the component.
-- **CSS3**: Styling for the component layout and responsiveness.
-- **JavaScript/ES6**: Used for dynamic functionality and event handling.
-- **Web Components**: For creating reusable, encapsulated custom elements with their own functionality and styles.
-- **Liquid**: Shopify’s templating language for rendering the component.
-
-### Dependencies
-Before installing the Kikstart component, ensure that the following dependencies are installed:
-- **PostCSS**: For processing CSS files. [Installation Guide](https://postcss.org/)
-- **Webpack**: For bundling and optimizing assets. [Installation Guide](https://webpack.js.org/guides/getting-started/)
-
-### Browser Compatibility
-- Chrome (Latest)
-- Firefox (Latest)
-- Safari (Latest)
-- Edge (Latest)
-- Internet Explorer 11 (with polyfills)
+- **Technologies Used**
+    - **HTML5**: Structure of the component.
+    - **CSS3**: Styling for the component layout and responsiveness.
+    - **JavaScript/ES6**: Used for dynamic functionality and event handling.
+    - **Web Components**: For creating reusable, encapsulated custom elements with their own functionality and styles.
+    - **Liquid**: Shopify’s templating language for rendering the component.
+- **Dependencies**
+    - **PostCSS**: For processing CSS files. [Installation Guide](https://postcss.org/)
+    - **Webpack**: For bundling and optimizing assets. [Installation Guide](https://webpack.js.org/guides/getting-started/)
+- **Browser Compatibility**
+    - Chrome (Latest)
+    - Firefox (Latest)
+    - Safari (Latest)
+    - Edge (Latest)
+    - Internet Explorer 11 (with polyfills)
 
 ## Design/UX
 [View the design on Figma](https://www.figma.com).
+
+- **Wireframes/Mockups**
+[View the design on Figma](https://www.figma.com/file/XXXXXX).
+
+- **Design Considerations**
+    - Ensure the image scales appropriately across different devices.
+    - Follow the brand's typography and color guidelines.
+    - The layout is responsive and works with both landscape and portrait images.
 
 ## Setup Instructions
 
