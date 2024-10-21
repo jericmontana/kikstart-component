@@ -2,24 +2,20 @@
 
 A brief description of the project, including what the component is designed to do, its key features, and how it fits into the larger project.
 
-## Lead Developer
-- **Name**: Jeck
-- **Email**: mntnjrc@gmail.com
-- **Phone Number**: +639165569644
-
-## Technologies Used
+## Technical Specifications
+### Technologies Used
 - **HTML5**: Structure of the component.
 - **CSS3**: Styling for the component layout and responsiveness.
 - **JavaScript/ES6**: Used for dynamic functionality and event handling.
 - **Web Components**: For creating reusable, encapsulated custom elements with their own functionality and styles.
 - **Liquid**: Shopify’s templating language for rendering the component.
 
-## Dependencies
+### Dependencies
 Before installing the Kikstart component, ensure that the following dependencies are installed:
 - **PostCSS**: For processing CSS files. [Installation Guide](https://postcss.org/)
 - **Webpack**: For bundling and optimizing assets. [Installation Guide](https://webpack.js.org/guides/getting-started/)
 
-## Browser Compatibility
+### Browser Compatibility
 - Chrome (Latest)
 - Firefox (Latest)
 - Safari (Latest)
@@ -52,6 +48,11 @@ Follow these steps to install the Kikstart component into your project.
 
 - Always use a development store for testing before pushing changes to production.
 - Follow Shopify's best practices for theme development.
+
+## Lead Developer
+- **Name**: Jeck
+- **Email**: mntnjrc@gmail.com
+- **Phone Number**: +639165569644
 
 ## How to Contribute
 
