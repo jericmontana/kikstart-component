@@ -50,6 +50,7 @@ Follow these steps to install the Kikstart component into your project.
 
 - Always use a development store for testing before pushing changes to production.
 - Follow Shopify's best practices for theme development.
+- Use Symantic versioning [LINK](https://semver.org/)
 
 ## Lead Developer
 - **Name**: Jeck
